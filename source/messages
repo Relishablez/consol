@@ -1,6 +1,7 @@
 methods=[
   "Attempting military-grade NASA hex-granade multi-level padding shuffle multi-encryption CURL mode...",
-  "Shooting packets at firewall"
+  "Shooting packets at firewall",
+  "Injecting XXS vulnerable server with buffer overflow tactics..."
 ]
 
 processes=[
@@ -10,6 +11,11 @@ processes=[
   "GENERATING GUI IN JAVASCRIPT TO TRACK IP!",
   "Injecting assembly registry into segmentation",
   "Reconstituting file integrity..."
+]
+
+assistance=[
+  "Calling local SWAT team...",
+  "Informing the Pentagon of a Russian hacker playing COD on the opposite team..."
 ]
 
 results=[
